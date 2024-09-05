@@ -54,7 +54,7 @@ After logging in as a user, you can:
 Please refer to the following images for a visual guide to the system:
 
 1. **Main Menu**:
-   ![Main Menu](screenshots/main_menu.png)
+   ![Main Menu](/screenshots/main_menu.png)
 
 2. **Admin Menu**:
    ![Admin Menu](screenshots/admin_menu.png)
