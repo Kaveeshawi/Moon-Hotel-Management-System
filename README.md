@@ -20,9 +20,30 @@ This is a C++ Hotel Management System for managing rooms, bookings, and billing 
 - A C++ compiler (e.g., GCC, MSVC, etc.).
 - Basic knowledge of C++ for running and modifying the code.
 
-## Getting Started
+## Installation
 
-### Step 1: Clone the Repository
-To get started, first clone the repository from GitHub:
-```bash
-git clone https://github.com/kaveeshawi/moon-hotel-management-system.git
+To run the Moon Hotel Management System on your local machine:
+
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/Kaveeshawi/Moon-Hotel-Management-System.git
+    ```
+2. **Navigate to the project directory**:
+    ```bash
+    cd Moon-Hotel-Management-System
+    ```
+3. **Compile the program**:
+    If you're using `g++`:
+    ```bash
+    g++ -o hotel_management main.cpp
+    ```
+4. **Run the compiled program**:
+    ```bash
+    ./hotel_management
+    ```
+
+## Usage
+
+When you start the program, you'll be presented with a menu where you can choose to log in as a user or an admin.
+
+### Main Menu:
