@@ -48,7 +48,6 @@ After logging in as a user, you can:
 3. **View Booking Details**: Check your current booking details.
 4. **View Bill**: View the bill for your booking.
 
-
 ## Sample Screenshots
 
 Please refer to the following images for a visual guide to the system:
