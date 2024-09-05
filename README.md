@@ -56,7 +56,7 @@ Please refer to the following images for a visual guide to the system:
    ![Main Menu](/screenshots/main_menu.png)
 
 2. **Admin Menu**:
-   ![Admin Menu](screenshots/admin.png)
+   ![Admin Menu](screenshots/admin_menu.png)
 
 3. **User Menu**:
    ![User Menu](screenshots/user_menu.png)
